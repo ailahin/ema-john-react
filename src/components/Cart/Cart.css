@@ -1,0 +1,33 @@
+.order-summary{
+    margin-left: 40px;
+}
+
+.summary-list{
+    text-align: start;
+    color: rgb(40, 120, 40);
+   font-size: large;
+   margin-left: 30Px;
+}
+
+.review-btn{
+   
+        color:black;
+        background-color: goldenrod;
+        padding: 7px 100px ;
+        font-size: large;
+        border-radius: 5px;
+        border: 1px rgb(233, 227, 227) solid;
+        margin-left: 12px;
+        cursor: pointer;  
+    }
+
+    .review-btn:hover{
+        background-color: rgb(7, 77, 77);
+    color: bisque;
+    border-radius: 5px;
+    
+    }
+
+    .order-total{
+        color: red;
+    }

@@ -1,0 +1,31 @@
+.products-container{
+    display: flex;
+    border-bottom: 1px gainsboro solid;
+}
+
+.products-container h3{
+    color: blue;
+    
+}
+
+.img{
+    margin-left:80px;
+}
+
+.buy-button{
+    color:black;
+    background-color: goldenrod;
+    padding: 8px 30px ;
+    font-size: large;
+    border-radius: 5px;
+    border: 0px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.buy-button:hover{
+    background-color: rgb(7, 77, 77);
+    color: bisque;
+    border-radius: 5px;
+    padding: 10px, 30px;
+}
